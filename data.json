@@ -1,0 +1,30 @@
+[
+    {
+        "Nama Pelanggan": "nn",
+        "Jenis Kendaraan": "Mini Bus",
+        "Jarak (km)": "900",
+        "Nomer HP": "8",
+        "Total Biaya": 0
+    },
+    {
+        "Nama Pelanggan": "jiza",
+        "Jenis Kendaraan": "Sedan",
+        "Jarak (km)": "89",
+        "Nomer HP": "0876",
+        "Total Biaya": 455000
+    },
+    {
+        "Nama Pelanggan": "azhar",
+        "Jenis Kendaraan": "Sedan",
+        "Jarak (km)": "7",
+        "Nomer HP": "0987",
+        "Total Biaya": 45000
+    },
+    {
+        "Nama Pelanggan": "lola",
+        "Jenis Kendaraan": "Sepeda Motor",
+        "Jarak (km)": "13",
+        "Nomer HP": "0987",
+        "Total Biaya": 44000
+    }
+]
